@@ -1,0 +1,1 @@
+window.repositoryObject = {"object_id":"repositorydata_domain","custom_fields":[],"domains":[{"id":"data_domain3","name":"Cleverads","type":"DATA_DOMAIN","subtype":"DATA_DOMAIN","is_user_defined":false,"custom_fields":{"Status":{"value":null,"type":"LIST_CLOSED"},"Also known as":{"value":null,"type":"TEXT"},"Owner":{"value":"","type":"USER"}}}]};
